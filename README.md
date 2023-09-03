@@ -6,3 +6,5 @@
 - 📫 How to reach me: Discord - sweb.
 - 😄 Pronouns: He/Him
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swebi&layout=compact)
+
