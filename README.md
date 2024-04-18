@@ -7,5 +7,6 @@
   
 [![My Skills](https://skillicons.dev/icons?i=react,nextjs,js,ts,tailwind,css,html,threejs,flutter,dart,firebase,py,git,github,c,cpp,figma,vscode,apple&perline=8)](https://skillicons.dev)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swebi&layout=donut&theme=transparent&show_icons=true)
 ![Suhayb's GitHub stats](https://github-readme-stats.vercel.app/api?username=swebi&theme=transparent&rank_icon=github&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swebi&layout=donut&theme=transparent&show_icons=true)
+
