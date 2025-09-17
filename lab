@@ -1,0 +1,6 @@
+{
+  "java.project.referencedLibraries": [
+    "lib/cloudsim-3.0.3.jar",
+    "lib/commons-math3-3.6.1.jar"
+  ]
+}
